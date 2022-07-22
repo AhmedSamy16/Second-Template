@@ -1,6 +1,10 @@
 # Second-Template
 
-My Second Template I created using HTML / CSS
+My Second front-end Template I created.
+
+## Stack used
+
+HTML / CSS
 
 The Project is responsive on all devices
 
